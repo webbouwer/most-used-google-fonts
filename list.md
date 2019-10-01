@@ -1,4 +1,4 @@
-Abril FatFace
+Abril-FatFace
 Alegreya
 Archivo
 Arvo
@@ -8,48 +8,48 @@ Bungee
 Cabin
 Cairo
 Cardo
-Concert One
+Concert-One
 Cormorant
-Crimson Text
+Crimson-Text
 Droid
 Eczar
-Exo 2
-Fira Sans
-Fjalla One
-Frank Ruhl Libre
-Gravitas One
-IBM Plex
-Inknut Antiqua
+Exo-2
+Fira-Sans
+Fjalla-One
+Frank-Ruhl-Libre
+Gravitas-One
+IBM-Plex
+Inknut-Antiqua
 Karla
 Lato
 Lora
 Merriweather
 Montserrat
 Muli
-Noto Sans
+Noto-Sans
 Nunito
-Old Standard TT
-Open Sans
+Old-Standard-TT
+Open-Sans
 Oswald
 Oxygen
-Playfair Display
+Playfair-Display
 Poppins
-Proza Libre
-PT Mono
-PT Sans
-PT Serif
+Proza-Libre
+PT-Mono
+PT-Sans
+PT-Serif
 Raleway
 Ubuntu
 Rakkas
 Roboto
-Roboto Slab
+Roboto-Slab
 Rubik
-Source Sans
-Source Sans Pro
+Source-Sans
+Source-Sans-Pro
 Spectral
-Titillium Web
+Titillium-Web
 Ubuntu
 Varela
 Vollkorn
-Work Sans
-Yatra One
+Work-Sans
+Yatra-One
