@@ -1,3 +1,55 @@
-Lora
-Montserrat
+Abril FatFace
+Alegreya
+Archivo
+Arvo
+B612
+BioRhyme
 Bungee
+Cabin
+Cairo
+Cardo
+Concert One
+Cormorant
+Crimson Text
+Droid
+Eczar
+Exo 2
+Fira Sans
+Fjalla One
+Frank Ruhl Libre
+Gravitas One
+IBM Plex
+Inknut Antiqua
+Karla
+Lato
+Lora
+Merriweather
+Montserrat
+Muli
+Noto Sans
+Nunito
+Old Standard TT
+Open Sans
+Oswald
+Oxygen
+Playfair Display
+Poppins
+Proza Libre
+PT Mono
+PT Sans
+PT Serif
+Raleway
+Ubuntu
+Rakkas
+Roboto
+Roboto Slab
+Rubik
+Source Sans
+Source Sans Pro
+Spectral
+Titillium Web
+Ubuntu
+Varela
+Vollkorn
+Work Sans
+Yatra One
