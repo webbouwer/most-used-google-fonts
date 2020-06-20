@@ -2,6 +2,7 @@ Abril-FatFace
 Alegreya
 Archivo
 Arvo
+Baloo Thambi
 B612
 BioRhyme
 Bungee
